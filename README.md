@@ -8,7 +8,7 @@
 # 🗃 My Projects
 <table>
   <tr>
-    <td><a href="">Writeups</a> - All my writeups about CTF challenges</td>    
+    <td><a href="https://github.com/Shinoqoan/Writeups">Writeups</a> - All my writeups about CTF challenges</td>    
     <td><a href="https://github.com/Shinoqoan/Encryption-Decryption-Functions-Simple">Project-en/decryption</a> - A program has functions to encrypt or decrypt files</td>    
   </tr>
   <tr>
